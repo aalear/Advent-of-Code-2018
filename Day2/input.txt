@@ -1,0 +1,1 @@
+Puzzle inputs differ by user. Replace the contents of this file with yours: http://adventofcode.com/2018/day/2/input
